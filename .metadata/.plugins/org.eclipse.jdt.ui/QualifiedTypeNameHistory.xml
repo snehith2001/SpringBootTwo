@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="com.fasterxml.jackson.annotation.JsonIgnore"/>
+    <fullyQualifiedTypeName name="org.jsp.UserAddressProj.repository.UserRepository"/>
+    <fullyQualifiedTypeName name="org.jsp.UserAddressProj.repository.AddressRepository"/>
+    <fullyQualifiedTypeName name="org.jsp.UserAddressProj.dao.AddressDao"/>
+    <fullyQualifiedTypeName name="org.jsp.UserAddressProj.dao.UserDao"/>
+    <fullyQualifiedTypeName name="org.jsp.UserAddressProj.dto.ResponseStructure"/>
+    <fullyQualifiedTypeName name="org.jsp.UserAddressProj.exception.AddressNotFoundException"/>
+    <fullyQualifiedTypeName name="org.jsp.UserAddressProj.exception.UserNotFoundException"/>
+    <fullyQualifiedTypeName name="org.jsp.UserAddressProj.service.UserService"/>
+    <fullyQualifiedTypeName name="org.jsp.UserAddressProj.dto.User"/>
+    <fullyQualifiedTypeName name="org.jsp.UserAddressProj.service.AddressService"/>
+    <fullyQualifiedTypeName name="org.jsp.UserAddressProj.dto.Address"/>
+</qualifiedTypeNameHistroy>

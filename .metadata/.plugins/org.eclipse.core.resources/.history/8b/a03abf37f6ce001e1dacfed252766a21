@@ -1,0 +1,5 @@
+package org.jsp.UserAddressProj.controller;
+
+public class AddressController {
+
+}

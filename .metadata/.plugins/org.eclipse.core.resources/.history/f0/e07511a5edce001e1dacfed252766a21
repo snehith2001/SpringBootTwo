@@ -1,0 +1,5 @@
+package org.jsp.UserAddressProj.repository;
+
+public interface AddressRepository {
+
+}

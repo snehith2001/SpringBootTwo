@@ -1,0 +1,5 @@
+package org.jsp.UserAddressProj.dto;
+
+public class Address {
+
+}
